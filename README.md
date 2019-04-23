@@ -13,3 +13,7 @@ east: +X
 https://minecraft.gamepedia.com/NBT_format
 
 https://minecraft.gamepedia.com/Villages.dat_format
+
+https://github.com/twoolie/NBT
+
+https://github.com/jaquadro/NBTExplorer
